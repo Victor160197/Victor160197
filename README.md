@@ -1,7 +1,7 @@
 ### Olá ! Eu sou o Victor Nascimento
 
 - 🔭 Hoje trabalho com Desenvolvimento Web e Front-End 
-- 🌱 Estudando HTML, CSS, Javascript
+- 🌱 Estudando HTML, CSS, Javascript e NodeJs
 
 <div align="center">
   <a href="https://github.com/Victor160197">
