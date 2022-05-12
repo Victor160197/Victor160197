@@ -1,23 +1,23 @@
 
 <div align="center">
-  <h4 align="center">
-    <h1>Olá Mundo! Eu sou o Victor Nascimento<h1>
-    <img height="350em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
-    <p><p>
-    
-  <hr>
-</div>
-  <div align="center">
-    <p><p>
-    <h2>🔭 Desenvolvedor de Software | FullStack | HTML | CSS | Javascript | ReactJs | NodeJs | Python | MySQL <h2>
-  </div>
-
-<div align="center">
+  <h1>Olá Mundo! Eu sou o Victor Nascimento<h1>
+  <p><p>
+  <h2>🔭 Desenvolvedor de Software | FullStack | HTML | CSS | Javascript | ReactJs | NodeJs | Python | MySQL <h2>
   <a href="https://github.com/Victor160197">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor160197&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor160197&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+
+<div align="center">
+  <h4 align="center">
+    <img height="300em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+    <p><p>
+  <hr>
 </div>
+  <div align="center">
+  </div>
+
   
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
