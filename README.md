@@ -9,7 +9,7 @@
 </div>
   <div align="center">
     <p><p>
-    <h2>🔭 Atualmente estou estudando HTML, CSS, Javascript, ReactJs, NodeJs, Python, MySQL e MongoDB <h2>
+    <h2>🔭 Desenvolvedor de Software | FullStack | HTML | CSS | Javascript | ReactJs | NodeJs | Python | MySQL <h2>
   </div>
 
 <div align="center">
