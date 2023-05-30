@@ -1,20 +1,29 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:9999,1000:fbc7d4&height=210&section=header&text=Jos%C3%A9%20Victor&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Full%20Stack&descAlignY=50">
 
+```javascript
+ 
+const WhoAmI = {
+  user: "Jose_Victor",
+  university_graduation: "information_systems",
+  hobbies: [
+   "Studying",
+   "Reading Books"]
+}
+	
+ function getCurrentCity() {
+	return Recife_Brazil;
+  }
+	
+ ```
+
+
+##
 <div align="center">
-  <h1>Olá Mundo! Eu sou o Victor Nascimento<h1>
-  <p><p>
-  <h2>🔭 Desenvolvedor de Software | FullStack | HTML | CSS | Javascript | ReactJs | NodeJs | Python | MySQL <h2>
   <a href="https://github.com/Victor160197">
-
-
-<div align="center">
-  <h4 align="center">
-    <img height="300em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
-    <p><p>
-  <hr>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Victor160197&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor160197&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div align="center">
-  </div>
-
+  
   
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +34,9 @@
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
   <img align="center" alt="Victor-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="Victor-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Victor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+  <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
   <p></p>  
